@@ -31,3 +31,7 @@ Debug
 cmake_install.cmake
 src/cmake_install.cmake
 .vs/
+
+# build and examples
+example-data/*
+src/image-stitching
